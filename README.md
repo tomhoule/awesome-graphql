@@ -390,6 +390,7 @@ If you want to contribute to this list (please do), send me a pull request.
 ### Rust Libraries
 
 * [juniper](https://github.com/mhallin/juniper) - GraphQL server library for Rust.
+* [graphql_client](https://github.com/tomhoule/graphql-client) - GraphQL client library for Rust.
 
 <a name="lib-r" />
 
